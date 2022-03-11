@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Vinny',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: true,
 
@@ -32,8 +32,8 @@ const CONFIG = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '-37.233334',
+  defaultLongitude: '-122.144.449997',
 
   // Autochange
   autoChangeTheme: true,
@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://https://www.facebook.com',
     },
     {
       id: '2',

@@ -106,7 +106,7 @@ To edit the buttons you just need to change the follow list in the `config.js` f
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
+      icon: 'facebook',
       link: 'https://github.com/',
     },
     {
