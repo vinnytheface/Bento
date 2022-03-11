@@ -55,7 +55,7 @@ const CONFIG = {
       id: '1',
       name: 'Facebook',
       icon: 'facebook',
-      link: 'https://https://www.facebook.com',
+      link: 'https://www.facebook.com/campaign/landing.php?&campaign_id=1652915732&extra_1=s%7Cc%7C318309875024%7Ce%7Cfacebook%20%27%7C&placement=&creative=318309875024&keyword=facebook%20%27&partner_id=googlesem&extra_2=campaignid%3D1652915732%26adgroupid%3D60884378542%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D1t1%26target%3D%26targetid%3Dkwd-360705453827%26loc_physical_ms%3D1000567%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjwhJrqBRDZARIsALhp1WQ6zMcoDx1-PTp-Bkgc_gzG3sYlIsjEsO0mI0l7gDyT4PzVnSpDWhkaAhXyEALw_wcB',
     },
     {
       id: '2',
